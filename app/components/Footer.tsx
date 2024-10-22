@@ -14,7 +14,6 @@ const Footer = () => {
               experience to our customers.
             </p>
           </div>
-
           {/* Customer Service Section */}
           <div>
             <h3 className="text-lg font-bold mb-4">Customer Service</h3>
@@ -68,8 +67,6 @@ const Footer = () => {
               </li>
             </ul>
           </div>
-
-          {/* Newsletter Subscription Section */}
           <div>
             <h3 className="text-lg font-bold mb-4">Newsletter</h3>
             <p className="text-gray-400 mb-4">

@@ -7,13 +7,12 @@ export default function Home() {
   return (
     <div>
       <Hero />
-      {/* Example usage of Image component */}
       <Image
         src="/path/to/your/image.jpg" // Update with your image path
         alt="Description of the image"
         width={500} // Set your desired width
         height={300} // Set your desired height
-      />
+         />
       <NewProducts />
       <Footer />
     </div>
